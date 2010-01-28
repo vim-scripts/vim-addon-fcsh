@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2933
+
+There is a Flex SDK for Linux. The complier is written in Java and has a long start time.
+To increase speed there is the fcsh (flex compiler shell). You compile once and everything will be kept in memory. This plugin runs fcsh for you so that you can get fcsh compilation failures in your quickfix window.
+
+Enjoy!
